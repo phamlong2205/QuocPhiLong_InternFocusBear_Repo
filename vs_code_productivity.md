@@ -46,4 +46,7 @@ The **multiple cursor shortcuts** (`Alt + Click` and `Ctrl + D`) will be the mos
 **How can keyboard shortcuts improve productivity?**  
 Shortcuts help me avoid constantly moving my hand to the mouse, which speeds up editing and navigation. They also help me stay in a “flow state” because I can quickly switch files, make edits, and debug without breaking focus.
 
+**Push the file to your public GitHub repo and submit a PR.**  
+I already pushed my markdown files so far to my public GitHub repo and submitted a pull request
+
 ---
